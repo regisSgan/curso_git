@@ -1,4 +1,3 @@
 Curso Git
 ---------
-Tasdasd
-asdasda
+Aula de Git
