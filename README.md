@@ -1,3 +1,5 @@
 Curso Git
 ---------
-Aula de Git
+
+Aula de GitHub
+
